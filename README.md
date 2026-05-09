@@ -20,4 +20,4 @@ This report aims to provide insights into key loan-related metrics and their cha
 * Loan Purpose Breakdown
 * Home Ownership Analysis
 
-Here is the [project link] (https://github.com/BALAMURUGANRAMESH/Bank_Loan_Project/blob/main/financial_loan_data_excel_Final.xlsx)
+Here is the [project link](https://github.com/BALAMURUGANRAMESH/Bank_Loan_Project/blob/main/financial_loan_data_excel_Final.xlsx).
