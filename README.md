@@ -10,6 +10,7 @@ This report aims to provide insights into key loan-related metrics and their cha
 * Average Debt-to-Income Ratio (DTI)
 * Good Loan v Bad Loan KPI’s - a comprehensive report that distinguishes between 'Good Loans' and 'Bad Loans' based on specific loan status criteria.
 * Loan Status Grid View - By providing insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio.
+
 !<img width="1025" height="697" alt="image" src="https://github.com/user-attachments/assets/0f9c88e7-436a-4926-9bec-b69ba9b60003" />
 
 # Overview Dashboard
@@ -20,5 +21,7 @@ This report aims to provide insights into key loan-related metrics and their cha
 * Employee Length Analysis
 * Loan Purpose Breakdown
 * Home Ownership Analysis
+
+<img width="1026" height="695" alt="image" src="https://github.com/user-attachments/assets/cc8e95d1-2ec3-4295-bd6f-f42e6f90f074" />
 
 Here is the [project link](https://github.com/BALAMURUGANRAMESH/Bank_Loan_Project/blob/main/financial_loan_data_excel_Final.xlsx).
