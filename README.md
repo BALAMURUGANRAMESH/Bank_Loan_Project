@@ -25,4 +25,5 @@ This report aims to provide insights into key loan-related metrics and their cha
 <img width="1026" height="695" alt="image" src="https://github.com/user-attachments/assets/cc8e95d1-2ec3-4295-bd6f-f42e6f90f074" />
 
 
+
 >Here is the [project link](https://github.com/BALAMURUGANRAMESH/Bank_Loan_Project/blob/main/financial_loan_data_excel_Final.xlsx).
