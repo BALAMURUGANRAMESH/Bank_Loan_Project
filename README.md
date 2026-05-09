@@ -1,4 +1,6 @@
 # Bank Loan Project
+This project involves developing a comprehensive, three-part Bank Loan Report to monitor lending performance, portfolio health, and borrower demographics, using key KPIs such as loan volume, funding, and repayment. Through a series of summary grids, visual trend charts (line, map, and donut), and detailed data tables, the dashboards enable data-driven decision-making and strategic analysis of "Good" versus "Bad" loan outcomes.
+
 This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
 
 # Summary Dashboard
