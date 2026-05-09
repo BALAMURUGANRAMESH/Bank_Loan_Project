@@ -3,6 +3,8 @@ This project involves developing a comprehensive, three-part Bank Loan Report to
 
 This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
 
+> Here is the [project link](https://github.com/BALAMURUGANRAMESH/Bank_Loan_Project/blob/main/financial_loan_data_excel_Final.xlsx).
+
 # Summary Dashboard
 ## Key Requirements
 * Total Loan Applications
@@ -25,7 +27,3 @@ This report aims to provide insights into key loan-related metrics and their cha
 * Home Ownership Analysis
 
 <img width="1026" height="695" alt="image" src="https://github.com/user-attachments/assets/cc8e95d1-2ec3-4295-bd6f-f42e6f90f074" />
-
-
-
->Here is the [project link](https://github.com/BALAMURUGANRAMESH/Bank_Loan_Project/blob/main/financial_loan_data_excel_Final.xlsx).
